@@ -1,2 +1,38 @@
 
 /* Your CSS Code here. */
+.main_one > div {
+	width: 80px;
+	height: 80px;	
+}
+.three,
+.four,
+.five,
+.six,
+.seven{
+	background-color: green;
+}
+
+.one{
+	background-color: red;
+	justify-content: right;
+	
+}
+
+.two{
+	background-color: blue;
+}
+
+.main_one{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+.main_t > div {
+	width: 80px;
+	height: 80px;	
+}
+
+.main_t{
+	display: flex;
+	justify-content: space-between;
+}
