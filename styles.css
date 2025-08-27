@@ -27,12 +27,12 @@
 	justify-content: space-between;
 	flex-wrap: wrap;
 }
-.main_t > div {
+.holder > div {
 	width: 80px;
 	height: 80px;	
 }
 
-.main_t{
+.holder{
 	display: flex;
 	justify-content: space-between;
 }
